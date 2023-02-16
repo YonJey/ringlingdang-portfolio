@@ -1,31 +1,32 @@
-import { HiOutlineDesktopComputer } from "react-icons/hi";
-import { CiMobile1 } from "react-icons/ci";
-import { MdWorkspacesOutline } from "react-icons/md";
+import { HiOutlineDesktopComputer } from "react-icons/hi"
+import { CiMobile1 } from "react-icons/ci"
+import { MdWorkspacesOutline } from "react-icons/md"
+
 export const projectExperience = [
   {
     name: "Website Design",
     projects: 76,
     icon: HiOutlineDesktopComputer,
-    bg: "#286F6C",
+    bg: "#286F6C"
   },
   {
     name: "Mobile App Design",
     projects: 63,
     icon: CiMobile1,
-    bg: "#EEC048",
+    bg: "#EEC048"
   },
   {
     name: "Brand Identity",
     projects: 47,
     icon: MdWorkspacesOutline,
-    bg: "#F26440",
-  },
-];
+    bg: "#F26440"
+  }
+]
 
 export const WhatDoIHelp = [
   "I will help you with finging a solution and solve your problem, We use process design to create digital products. Besides that also help their business.",
-  "We use process design to create digital products. Besides that also help their business",
-];
+  "We use process design to create digital products. Besides that also help their business"
+]
 
 export const workExp = [
   {
@@ -33,23 +34,23 @@ export const workExp = [
     tenure: "Aug 2014 - Sep 2016",
     role: "Visual Designer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts"
   },
   {
     place: "New Man Services",
     tenure: "Aug 2014 - Sep 2016",
     role: "UI/UX Designer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts"
   },
   {
     place: "Global Solution",
     tenure: "Aug 2014 - Sep 2016",
     role: "Sr. Product Designer",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
-  },
-];
+      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts"
+  }
+]
 
 export const comments = [
   {
@@ -57,65 +58,65 @@ export const comments = [
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+    img: "./people2.png"
   },
   {
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+    img: "./people1.png"
   },
   {
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+    img: "./people2.png"
   },
   {
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+    img: "./people1.png"
   },
   {
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+    img: "./people2.png"
   },
   {
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+    img: "./people1.png"
   },
   {
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
+    img: "./people2.png"
   },
   {
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
+    img: "./people1.png"
   },
   {
     name: "Anamika Sandula",
     post: "Creative Manager",
     comment:
       "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-];
+    img: "./people2.png"
+  }
+]
 
 export const sliderSettings = {
   dots: true,
@@ -134,23 +135,23 @@ export const sliderSettings = {
         slidesToShow: 3,
         slidesToScroll: 3,
         infinite: true,
-        dots: true,
-      },
+        dots: true
+      }
     },
     {
       breakpoint: 1000,
       settings: {
         slidesToShow: 2,
         slidesToScroll: 2,
-        initialSlide: 2,
-      },
+        initialSlide: 2
+      }
     },
     {
       breakpoint: 480,
       settings: {
         slidesToShow: 1,
-        slidesToScroll: 1,
-      },
-    },
-  ],
-};
+        slidesToScroll: 1
+      }
+    }
+  ]
+}
